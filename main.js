@@ -12,3 +12,5 @@ if (a === 3) {
 console.log(a);
 
 let b = 3;
+
+let c = 5;
